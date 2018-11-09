@@ -1,6 +1,6 @@
 {
-  "name": "quagga",
-  "version": "0.12.1",
+  "name": "quagga-scanner",
+  "version": "0.13",
   "description": "An advanced barcode-scanner written in JavaScript",
   "main": "lib/quagga.js",
   "typings": "type-definitions/quagga.d.ts",
@@ -79,10 +79,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/serratus/quaggaJS.git"
+    "url": "https://github.com/michaeltrollan/quaggaJS.git"
   },
   "bugs": {
-    "url": "https://github.com/serratus/quaggaJS/issues"
+    "url": "https://github.com/michaeltrollan/quaggaJS/issues"
   },
   "keywords": [
     "quagga",
