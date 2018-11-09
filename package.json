@@ -1,6 +1,6 @@
 {
   "name": "quagga-scanner",
-  "version": "0.13",
+  "version": "0.13.0",
   "description": "An advanced barcode-scanner written in JavaScript",
   "main": "lib/quagga.js",
   "typings": "type-definitions/quagga.d.ts",
